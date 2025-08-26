@@ -1,5 +1,5 @@
 # Projet Phase 3 : Classification des puits d’eau en Tanzanie
-![girl getting water](images/small-girl-water-pond.jp](https://github.com/Germode/Projet-de-phase-3-Classification-des-puits-d-eau-en-Tanzanie/blob/main/Images/lizotte-puits-tanzanie-7.avif)g)
+![girl getting water](https://github.com/Germode/Projet-de-phase-3-Classification-des-puits-d-eau-en-Tanzanie/blob/main/Images/puits-d-eau-en-Tanzanie.jpg)
 ## Contexte
 La Tanzanie, pays en développement, peine à fournir de l'eau potable à sa population de plus de 57 millions d'habitants. 
 De nombreux points d'eau ont déjà été installés, mais certains nécessitent des réparations tandis que d'autres sont totalement hors service.
